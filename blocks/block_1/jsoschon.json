@@ -1,0 +1,34 @@
+{
+  "py/object": "block.GenesisProduce",
+  "hashSign": {
+    "py/object": "block.HashSign",
+    "script": {
+      "py/reduce": [{ "py/type": "block.Script" }, { "py/tuple": [2] }]
+    },
+    "prev_hash": "d127b007136e75e0128f8eb91f4b4bf5c8be675211f5a546bfa482739752dc4a830c1bf54f56700f7e37b5f61cb306af249f96ed69cf46ecaee8b846feb28494",
+    "block_number": 1,
+    "difficulty": 1,
+    "total_difficulty": 1,
+    "private_key": "644ac7052613660d1f0d7ae63946a6a88a727adff85088b9",
+    "public_key": "e1dad07657d41e8454665a02d1b41af431779f87a094c852d2dd4fb4e635970975b939352355f29a33c4fd5e5e919dae",
+    "nonce": 342,
+    "gladiators": [
+      {
+        "py/object": "block.Gladiator",
+        "outputs": [
+          {
+            "py/object": "block.GladiatorOutput",
+            "heschex": "d6",
+            "public_keys": [
+              "5047f3a6e2b9f5d01f9f3391952e4a6fcdb00783255bee2292ac98683e826306c02212dbea78932342415f51188d735d"
+            ]
+          }
+        ],
+        "inputs": [],
+        "id": "d81a547f52cc9a08425bfc6e60d36e3a35203325f5808bd01606586f012830e79d3cb561a4b3ffcda402616a8fdedd1b70eb078826cf4a413bc3d8bebd948c21"
+      }
+    ]
+  },
+  "signature": "f5b4a53b1c4c0d2b42353f8c27f8e70d27154f0a7b339fe0a4c36c3d003c09af329daa055b038d9072ab4b2d574cc6cc",
+  "new_hash": "d625b39fccc4b211f3d37aedee88b9313bc9763e40b1ff002045ae0205b52ffad0b952bf7359e5d85afb51256704f3d5c69ecb7829a6ca679d95d71994dd016d"
+}

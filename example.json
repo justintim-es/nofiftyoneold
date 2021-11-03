@@ -1,0 +1,5 @@
+{
+    "scripts": {
+        "teschest": "node console.log('jf')"
+    }
+}

